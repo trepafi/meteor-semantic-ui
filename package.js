@@ -14,7 +14,7 @@ Package.onUse(function (api) {
     function getFiles() {
         return [
             'src/components/accordion.css',
-            'src/components/accordion.jss',
+            'src/components/accordion.js',
             'src/components/api.js',
             'src/components/breadcrumb.css',
             'src/components/button.css',
@@ -84,7 +84,7 @@ Package.onUse(function (api) {
             'src/themes/basic/assets/fonts/icons.ttf',
             'src/themes/basic/assets/fonts/icons.woff',
             'src/themes/default/assets/fonts/icons.eot',
-            'src/themes/default/assets/fonts/icons.eotf',
+            'src/themes/default/assets/fonts/icons.otf',
             'src/themes/default/assets/fonts/icons.svg',
             'src/themes/default/assets/fonts/icons.ttf',
             'src/themes/default/assets/fonts/icons.woff',
