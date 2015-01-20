@@ -11,5 +11,5 @@ meteor add trepafi:semantic-ui
 ````
 
 ## Example
-[This][1] is a mini-project to test MapBox integration with Meteor among other cool packages
+[This][1] is a mini-project to test Semantic UI integration with Meteor among other cool packages
 [1]: https://github.com/trepafi/meteor-poc
