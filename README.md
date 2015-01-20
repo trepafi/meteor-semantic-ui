@@ -9,3 +9,7 @@ This package creates a copy of the latest version of Semantic UI into you meteor
 cd /path/to/your/meteor/project
 meteor add trepafi:semantic-ui
 ````
+
+## Example
+[This][1] is a mini-project to test MapBox integration with Meteor among other cool packages
+[1]: https://github.com/trepafi/meteor-poc
