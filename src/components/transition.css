@@ -1,5 +1,5 @@
  /*
- * # Semantic UI
+ * # Semantic UI - 1.7.3
  * https://github.com/Semantic-Org/Semantic-UI
  * http://www.semantic-ui.com/
  *
@@ -423,7 +423,7 @@
   -webkit-animation-name: horizontalFlipOut;
           animation-name: horizontalFlipOut;
 }
-.vertical.flip.transition.out {
+.vertical.flip.transition.in {
   -webkit-animation-name: verticalFlipIn;
           animation-name: verticalFlipIn;
 }
