@@ -1,7 +1,7 @@
 Package.describe({
     name: "trepafi:semantic-ui",
     summary: "Semantic UI for Meteor",
-    version: "0.1.1",
+    version: "0.2.0",
     git: "https://github.com/trepafi/meteor-semantic-ui.git"
 });
 
